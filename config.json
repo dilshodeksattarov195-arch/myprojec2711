@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyurocess",
+        "uuid": 13517046,
+        "checksum": "lo5li"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
